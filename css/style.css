@@ -359,3 +359,19 @@
     margin: 0 3px;
   }
   
+.credit {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #777;
+  font-size: 12px;
+}
+
+.credit a {
+  color: #777;
+}
+
+.credit a:hover {
+  color: blue;
+}
